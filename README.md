@@ -14,6 +14,18 @@ This project combines object detection, segmentation, and image synthesis to sim
 ✔ Arm curvature approximation for natural wrapping
 ✔ Lighting-aware blending for photorealistic results
 
+## Model Files
+
+Due to GitHub size limits, model files are hosted on Google Drive.
+
+SAM Model:
+https://drive.google.com/file/d/1IpCwYcg-plnlNGV3Eb9TsUsTNxfs2TfD/view
+
+YOLO Wound Detection Model:
+https://drive.google.com/file/d/12chkMt1UYwSkOCb-obPivMHENkQx5Aq7/view
+
+Place them in the project root directory before running the code.
+
 🧠 Workflow
 
 Select an image containing a wound
